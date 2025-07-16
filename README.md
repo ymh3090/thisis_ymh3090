@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yahiamohamed&label=Profile%20views&color=0e75b6&style=flat" alt="yahiamohamed" /> </p>
 
-- 🔭 I’m currently studying in my 2nd year of CS, focusing on **problem solving, algorithms, and systems**
+- 🔭 I’m currently studying in my 2nd year of CS, focusing on **problem solving, algorithms, and systems and Networking**
 
 - 🌱 I’m currently learning **C, C++, Data Structures, and Fundamentals of Game Development**
 
@@ -21,7 +21,6 @@
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
   <a href="https://cplusplus.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
 </p>
 
 ---
