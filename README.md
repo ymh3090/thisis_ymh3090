@@ -20,3 +20,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ymh3090&show_icons=true&locale=en" alt="ymh3090" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ymh3090&" alt="ymh3090" /></p>
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ymh3090&theme=react-dark)
+
