@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **C, C++, Data Structures, and Fundamentals of Game Development**
 
-- 💬 Ask me about **basic C/C++, logic building, and how to get started with computer science**
+- 💬 Ask me about **basic C/C++, l,c#**
 
-- 📫 How to reach me: **[your email here]**
+- 📫 How to reach me: **yahiamh3090@gmail.com**
 
 - ⚡ Fun fact: I once completed a **500+ day streak** on Duolingo!
 
