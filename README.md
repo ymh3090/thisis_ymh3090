@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yahya Mo-hamed </h1>
 <h3 align="center">A passionate computer science student from Assiut </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=[your-username]&label=Profile%20views&color=0e75b6&style=flat" alt="[your-username]" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ymh3090&label=Profile%20views&color=0e75b6&style=flat" alt="ymh3090" /> </p>
 
 ### 🛠️ Languages and Tools
 
