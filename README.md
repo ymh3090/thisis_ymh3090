@@ -1,47 +1,18 @@
-https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Hey%20Everyone!
-<h3 align="center">A passionate Computer Science student from Assiut,Egypt 🇪🇬</h3>
+<h1 align="center">Hi 👋, I'm yahya</h1>
+<h3 align="center">A passionate computer science student from Assiut</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yahiamohamed&label=Profile%20views&color=0e75b6&style=flat" alt="yahiamohamed" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ymh3090&label=Profile%20views&color=0e75b6&style=flat" alt="ymh3090" /> </p>
 
-- 🔭 I’m currently studying in my 2nd year of CS, focusing on **problem solving, algorithms, and systems and Networking**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ymh3090" alt="ymh3090" /></a> </p>
 
-- 🌱 I’m currently learning **C, C++, Data Structures, and Fundamentals of Game Development**
-
-- 💬 Ask me about **basic C/C++, l,c#**
-
-- 📫 How to reach me: **yahiamh3090@gmail.com**
-
-- ⚡ Fun fact: I once completed a **500+ day streak** on Duolingo!
-
----
-
-### 🛠️ Languages and Tools
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
-  <a href="https://cplusplus.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
 
-### 📊 GitHub Stats
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ymh3090&show_icons=true&locale=en" alt="ymh3090" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yahiamohamed&show_icons=true&locale=en&layout=compact" alt="yahiamohamed" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yahiamohamed&show_icons=true&locale=en" alt="yahiamohamed" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yahiamohamed&" alt="yahiamohamed" /></p>
-
----
-
-### 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=yahiamohamed&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-### ⚙️ Activity Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ymh3090&theme=react-dark)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ymh3090&" alt="ymh3090" /></p>
 
