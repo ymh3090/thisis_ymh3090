@@ -1,4 +1,4 @@
-[[!hey everyone![(https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Input%20text&reversal=true)](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Input%20text)](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Hey%20Everyone!)
+https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Hey%20Everyone!
 <h3 align="center">A passionate Computer Science student from Assiut,Egypt 🇪🇬</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yahiamohamed&label=Profile%20views&color=0e75b6&style=flat" alt="yahiamohamed" /> </p>
